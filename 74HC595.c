@@ -1,5 +1,6 @@
 /*
  * File:   74hc4094.c
+ * 74HC595
  * Author: Fernando Martins, John Santos
  *
  * Created on June 21, 2023, 9:39 AM
